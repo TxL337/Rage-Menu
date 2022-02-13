@@ -1,5 +1,6 @@
 # Rage Trainer
 # Grand Theft Auto V Internal Online Trainer
+* Scripts Loader -> Load and Unload any asi scripts
 * Abundance of features -> Over 500 Ready To Use Modules. 
 * Frequent updates -> Weekly Planned Updates.
 * Injectable trainer -> Rage is an injectable Trainer, meaning it injects to your game at runtime. This allows you to run Rage alongside most mods.
